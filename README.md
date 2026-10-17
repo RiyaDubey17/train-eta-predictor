@@ -1,2 +1,2 @@
-# train-eta-predictor
-Real-time train ETA prediction using live railway data and a dynamic disruption-modeling engine, built in Java.
+# Traincast
+Project for Smart India Hackathon on the problem about forecasting train delays

@@ -1,0 +1,170 @@
+[
+  {
+    "predictedDisruptions": [],
+    "totalPredictedExtraDelayMin": 0,
+    "currentStation": "Kapren",
+    "trainName": "New Delhi - Mumbai Central Tejas Rajdhani Express",
+    "confidence": 96,
+    "estimatedSectionType": "CLEAR",
+    "predictedETAMinutes": 27.497737556561077,
+    "generatedAt": "2026-09-06T21:16:54.140830300",
+    "trainNumber": "12952",
+    "liveStatus": "running",
+    "currentDelayMin": 5,
+    "nextStation": "Kota Jn"
+  },
+  {
+    "predictedDisruptions": [
+      {
+        "type": "HIGH_CONGESTION",
+        "delayMinutes": 25,
+        "description": "High traffic density on the section"
+      },
+      {
+        "type": "SIGNAL_HALT",
+        "delayMinutes": 16,
+        "description": "Unscheduled signal halt"
+      }
+    ],
+    "totalPredictedExtraDelayMin": 41,
+    "currentStation": "Itola",
+    "trainName": "Mumbai Central - New Delhi Tejas Rajdhani Express",
+    "confidence": 91,
+    "estimatedSectionType": "NORMAL",
+    "predictedETAMinutes": 69.5748878923767,
+    "generatedAt": "2026-09-06T21:17:01.064576300",
+    "trainNumber": "12951",
+    "liveStatus": "running",
+    "currentDelayMin": 14,
+    "nextStation": "Vadodara Jn"
+  },
+  {
+    "predictedDisruptions": [
+      {
+        "type": "HEAVY_RAIN",
+        "delayMinutes": 20,
+        "description": "Heavy rain reducing sectional speed"
+      },
+      {
+        "type": "HIGH_CONGESTION",
+        "delayMinutes": 27,
+        "description": "High traffic density on the section"
+      }
+    ],
+    "totalPredictedExtraDelayMin": 47,
+    "currentStation": "Howrah",
+    "trainName": "Howrah - New Delhi Rajdhani Express",
+    "confidence": 91,
+    "estimatedSectionType": "CLEAR",
+    "predictedETAMinutes": 201.88951048951049,
+    "generatedAt": "2026-09-06T21:17:07.529334500",
+    "trainNumber": "12301",
+    "liveStatus": "not-started",
+    "currentDelayMin": 0,
+    "nextStation": "Asansol Jn"
+  },
+  {
+    "predictedDisruptions": [],
+    "totalPredictedExtraDelayMin": 0,
+    "currentStation": "New Delhi",
+    "trainName": "New Delhi - Rani Kamlapati Shatabdi Express",
+    "confidence": 96,
+    "estimatedSectionType": "CLEAR",
+    "predictedETAMinutes": 107.62301101591186,
+    "generatedAt": "2026-09-06T21:17:14.038370800",
+    "trainNumber": "12002",
+    "liveStatus": "not-started",
+    "currentDelayMin": 0,
+    "nextStation": "Mathura Jn"
+  },
+  {
+    "predictedDisruptions": [
+      {
+        "type": "HIGH_CONGESTION",
+        "delayMinutes": 48,
+        "description": "High traffic density on the section"
+      },
+      {
+        "type": "SIGNAL_HALT",
+        "delayMinutes": 16,
+        "description": "Unscheduled signal halt"
+      }
+    ],
+    "totalPredictedExtraDelayMin": 64,
+    "currentStation": "Dornakal Jn",
+    "trainName": "Tamil Nadu Express",
+    "confidence": 88,
+    "estimatedSectionType": "BUSY",
+    "predictedETAMinutes": 121.91244239631335,
+    "generatedAt": "2026-09-06T21:17:20.323224800",
+    "trainNumber": "12622",
+    "liveStatus": "running",
+    "currentDelayMin": 31,
+    "nextStation": "Khammam"
+  },
+  {
+    "predictedDisruptions": [
+      {
+        "type": "HEAVY_RAIN",
+        "delayMinutes": 26,
+        "description": "Heavy rain reducing sectional speed"
+      }
+    ],
+    "totalPredictedExtraDelayMin": 26,
+    "currentStation": "Agasod",
+    "trainName": "Grand Trunk Express",
+    "confidence": 94,
+    "estimatedSectionType": "NORMAL",
+    "predictedETAMinutes": 193.78240000000005,
+    "generatedAt": "2026-09-06T21:17:26.647308900",
+    "trainNumber": "12615",
+    "liveStatus": "running",
+    "currentDelayMin": 15,
+    "nextStation": "Veerangana Lakshmibai Jhansi"
+  },
+  {
+    "predictedDisruptions": [
+      {
+        "type": "HEAVY_RAIN",
+        "delayMinutes": 12,
+        "description": "Heavy rain reducing sectional speed"
+      }
+    ],
+    "totalPredictedExtraDelayMin": 12,
+    "currentStation": "Okhla",
+    "trainName": "Punjab Mail",
+    "confidence": 96,
+    "estimatedSectionType": "NORMAL",
+    "predictedETAMinutes": 42.60627177700341,
+    "generatedAt": "2026-09-06T21:17:33.197347500",
+    "trainNumber": "12137",
+    "liveStatus": "running",
+    "currentDelayMin": 23,
+    "nextStation": "Hazrat Nizamuddin Jn"
+  },
+  {
+    "predictedDisruptions": [
+      {
+        "type": "HEAVY_RAIN",
+        "delayMinutes": 26,
+        "description": "Heavy rain reducing sectional speed"
+      },
+      {
+        "type": "HIGH_CONGESTION",
+        "delayMinutes": 28,
+        "description": "High traffic density on the section"
+      }
+    ],
+    "totalPredictedExtraDelayMin": 54,
+    "currentStation": "Mumbai Central",
+    "trainName": "Mumbai Central - Ahmedabad Shatabdi Express",
+    "confidence": 91,
+    "estimatedSectionType": "CLEAR",
+    "predictedETAMinutes": 78.58200514138817,
+    "generatedAt": "2026-09-06T21:17:39.625558400",
+    "trainNumber": "12009",
+    "liveStatus": "not-started",
+    "currentDelayMin": 0,
+    "nextStation": "Borivali"
+  }
+]
